@@ -11,8 +11,7 @@
         "*://mobile.reddit.com/*",
         "*://*.reddit.com/*"
       ],
-      "js": ["main.js", "lz-string.js"],
-      "run_at": "document_idle"
+      "js": ["main.js"]
     }
   ],
   "background": {
